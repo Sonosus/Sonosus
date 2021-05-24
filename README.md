@@ -1,6 +1,5 @@
-# Index
+# List of repositories
 
-An index of all my repositories.
 
 ## KiCad PCB files
 * [SlewLimiter](github.com/sonosus/slewlimiter) A dual slew limiter module in Kosmo format.
