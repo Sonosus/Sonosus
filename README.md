@@ -20,6 +20,7 @@ If you have any queries please do email me: sonosusoshwa {at} gmail {dot} com
 
 * :warning: [VCDO](Https://github.com/sonosus/vcdo) A VCDO module with the Electric Druid VCDO chip in Kosmo format.
 
+* :warning: [PassiveModule](https://github.com/sonosus/passivemodule) Front panel for Matthew Skala(North Coast Synthesis)'s multiple function passive module.
 
 ## Stripboard Layouts
 * :heavy_check_mark: [NoiseDrumStripboard](Https://github.com/sonosus/noisedrumstripboard) Buffered version of the Tiny Dazzler Noise Drum.
