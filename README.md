@@ -2,6 +2,10 @@
 
 
 ## KiCad PCB files
+Warning! Use all files at your own risk! Many of these designs have not been tested and may cause damage to your synth or self.
+
+If you have any queries, please email me: sonosusoshwa {at} gmail {dot} com
+
 * [SlewLimiter](Https://github.com/sonosus/slewlimiter) A dual slew limiter module in Kosmo format.
 
 * [Audiometer](Https://Https://github.com/sonosus/audiometer) A VU style meter board with the Electric Druid Audiometer chip.
