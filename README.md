@@ -22,6 +22,8 @@ If you have any queries please do email me: sonosusoshwa {at} gmail {dot} com
 
 * :warning: [PassiveModule](https://github.com/sonosus/passivemodule) Front panel for Matthew Skala(North Coast Synthesis)'s multiple function passive module.
 
+* :heavy_check_mark: [3340 Breakout](https://github.com/sonosus/3340Breakout) A multi-purpose breakout board for the CEM3340/AS3340/V3340 chips. 
+
 ## Stripboard Layouts
 * :heavy_check_mark: [NoiseDrumStripboard](Https://github.com/sonosus/noisedrumstripboard) Buffered version of the Tiny Dazzler Noise Drum.
 
@@ -29,7 +31,7 @@ If you have any queries please do email me: sonosusoshwa {at} gmail {dot} com
 
 ## Forks, spoonfuls of other repos
 
-* :heavy_check_mark: [ww_supply](https://github.com/sonosus/ww_supply) MFOS style synth PSU made by Rich Holmes with busboard modification.
+* :heavy_check_mark: [ww_supply](https://github.com/sonosus/ww_supply) MFOS style synth PSU made by @holmesrichards with busboard modification.
 
 * :x: [KosmoAndPollux](https://github.com/sonosus/kosmoandpollux) Castor and Pollux, in Kosmo format. In progress!
 
