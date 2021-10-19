@@ -1,3 +1,21 @@
+# Hello!
+
+Hey! I am Sonosus. I'm a student (ME/part time EE), electronics hobbyist, and maker of random useless things.
+
+This account holds most of my ventures into DIY synths and electronics. I am building a Kosmo format(20cm) modular system, popularised by Sam Battle/Look Mum No Computer.
+
+I am a big fan of open source, and try and share as much as possible about my designs. If there's something missing or you have any questions, I am happy to help. Please see the contact section below.
+
+Occasionally if I have spare PCBs to offload I will sell them on my [Tindie](https://tindie.com/stores/sonosus) store.
+
+
+# Contact
+
+You can email me directly (sonosusoshwa at gmail dot com).
+
+Alternatively you can send me a PM on the LMNC Discourse forum - https://lookmumnocomputer.discourse.group/u/sonosus
+
+
 # List of repositories
 
 Warning! Use all files at your own risk! Many of these designs have not been tested and may cause damage to your synth or self.
@@ -42,6 +60,7 @@ If you have any queries please do email me: sonosusoshwa {at} gmail {dot} com
 ## Other stuff
 * :heavy_check_mark: [ChickenFeeder](Https://github.com/sonosus/chickenfeeder) Cad files for a chicken feed dispenser.
 
+## Key to symbols
 | Symbol             | Meaning                                                                          |  
 |--------------------|----------------------------------------------------------------------------------|
 | :heavy_check_mark: | Fully designed, debugged, tested, and verified.                                  |
