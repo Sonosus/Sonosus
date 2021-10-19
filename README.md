@@ -20,7 +20,7 @@ Alternatively you can send me a PM on the LMNC Discourse forum - https://lookmum
 
 Warning! Use all files at your own risk! Many of these designs have not been tested and may cause damage to your synth or self.
 
-If you have any queries please do email me: sonosusoshwa {at} gmail {dot} com
+If you have any queries or suggestions please do get in touch.
 
 ## KiCad PCB files
 
