@@ -36,11 +36,15 @@ If you have any queries or suggestions please do get in touch.
 
 * :x: [Filter3320](Https://github.com/sonosus/filter3320) A CEM3320 filter module. No pcb, only schematic so far.
 
-* :warning: [VCDO](Https://github.com/sonosus/vcdo) A VCDO module with the Electric Druid VCDO chip in Kosmo format.
+* :heavy_check_mark: [VCDO](Https://github.com/sonosus/vcdo) A VCDO module with the Electric Druid VCDO chip in Kosmo format.
 
 * :warning: [PassiveModule](https://github.com/sonosus/passivemodule) Front panel for Matthew Skala(North Coast Synthesis)'s multiple function passive module.
 
 * :heavy_check_mark: [3340 Breakout](https://github.com/sonosus/3340Breakout) A multi-purpose breakout board for the CEM3340/AS3340/V3340 chips. 
+
+* :x: [dronebox](https://github.com/sonosus/dronebox) Many oscillators in a tiny (OK, small) box. In progress.
+
+* :x: [Kosmodulator](https://github.com/sonosus/Kosmodulator) A big knob for Kosmo modular synths. In progress.
 
 ## Stripboard Layouts
 * :heavy_check_mark: [NoiseDrumStripboard](Https://github.com/sonosus/noisedrumstripboard) Buffered version of the Tiny Dazzler Noise Drum.
@@ -56,6 +60,7 @@ If you have any queries or suggestions please do get in touch.
 * :warning: [HagiwoOscillator](https://github.com/sonosus/hagiwooscillator) A generic PCB for the HAGIWO VCDO series. In progress.
 
 * :x: [ReallyBigHonkingButton](https://github.com/sonosus/really_big_honking_button) Winterbloom's Big Honking button, really. In progress.
+
 
 ## Other stuff
 * :heavy_check_mark: [ChickenFeeder](Https://github.com/sonosus/chickenfeeder) Cad files for a chicken feed dispenser.
