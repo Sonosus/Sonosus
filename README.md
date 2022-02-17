@@ -1,6 +1,6 @@
 # Hello!
 
-Hey! I am Sonosus. I'm a student (ME/part time EE), electronics hobbyist, and maker of random useless things.
+Hey! I am Sonosus. I'm an engineering student, electronics hobbyist, and maker of random useless things.
 
 This account holds most of my ventures into DIY synths and electronics. I am building a Kosmo format(20cm) modular system, popularised by Sam Battle/Look Mum No Computer.
 
@@ -71,3 +71,7 @@ If you have any queries or suggestions please do get in touch.
 | :heavy_check_mark: | Fully designed, debugged, tested, and verified.                                  |
 | :warning:          | Fully designed but not tested. There is a high chance this won't work first try. |
 | :x:                | Unfinished, messy design. Do not use, for reference or otherwise.                |
+
+# Support
+I've had a couple of requests from folks who want to financially support my work. I build synths and electronics in my spare time, and will always make my work open source for the world to enjoy - I publish my designs here because I want to give back to the DIY community and benefit as many people as possible. 
+I don't want to advertise this widely, but since some people have asked for it, you can now tip me on [Ko-fi](ko-fi.com/sonosus). This is absolutely at your discretion - don't feel you have to, but if you do decide to donate, thank you very much. 
