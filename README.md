@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/Sonosus?style=for-the-badge)
 # Hello!
 
 Hey! I am Sonosus. I'm an engineering student, electronics hobbyist, and maker of random useless things.
