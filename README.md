@@ -1,8 +1,10 @@
 
-# Hello!
+# Hello
 
-You can email me directly (sonosusoshwa at gmail dot com).
+## Contact
 
-Alternatively you can send me a PM on the LMNC Discourse forum - https://lookmumnocomputer.discourse.group/u/sonosus
+sonosusoshwa at gmail dot com
+
+LMNC Discourse forum - PM me: https://lookmumnocomputer.discourse.group/u/sonosus
 
 
