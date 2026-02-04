@@ -1,6 +1,3 @@
-
-# Hello
-
 ## Contact
 
 sonosusoshwa at gmail dot com
